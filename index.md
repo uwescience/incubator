@@ -25,22 +25,20 @@ on the web.
 Traditional consulting is based on strongly defined roles. There are \"clients\"
 who seek advice from \"consultants\".  The consultants dispense advice, and then
 quickly move on to the next client.  This model is a poor fit for operating at
-the frontier of data science.  The  tools and techniques used in data science
+the frontier of data science.  The tools and techniques used in data science
 are complex and in a constant state of flux.  It often requires a period of
 trial-and-error to determine which techniques are well-suited for a given
 problem.   
 
-Our goal in the Data Science Incubator is to tear down the traditional
-consulting roles.  We work on the premise of direct collaboration.  During
-the lifetime of the project, researchers will directly engage with our team of
-data scientists, either in our office (currently, Sieg 326) or at another
-location.  We have found direct collaboration to be invaluable, as it
-facillitates rapid knowledge transfer between domain scientists and data
-scientists.
+The Data Science Incubator works on the principle of direct collaboration.
+During the lifetime of the project, researchers will directly engage with our
+team of data scientists, either in our office (currently, Sieg 326) or at
+another location.  We have found this style of \"hands-on-keyboards\"
+collaboration to be invaluable, as it facillitates rapid knowledge transfer
+between domain scientists and data scientists.
 
-## Success Stories
-
-Something should go here...
+Our team has a strong track record of building systems that get real use.  See
+this page XXX for a description of our success stories.
 
 ## How to Get Started
 
