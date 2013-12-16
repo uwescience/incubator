@@ -70,5 +70,3 @@ more details.
 * [Bill Howe](http://homes.cs.washington.edu/~billhowe/)
 * [Dan Halperin](http://homes.cs.washington.edu/~dhalperi/)
 * [Andrew Whitaker](http://homes.cs.washington.edu/~whitaker)
-
-XXX Other people we should list here.
