@@ -44,15 +44,29 @@ the following types of challanges:
     help scientists make sense of data.  We focus on web-enabled visualizations
     using platforms like [D3](http://d3js.org).
 
-
 ## Principles
 
-Web-accessible resources (sqlshare, myria)
+The Data Science Incubator treats every client as a unique case.  Nevertheless,
+there are a set of principles that we strive to apply in most settings.
 
-Because science is a
-collaborative process, we place an emphasis on making all of our work available
-on the web.
+**Reproducibility** is a major point of emphasis for our work.  Broadly
+  speaking, reproducibility means that other researchers should be able to
+  understand how a result was produced, and (if so desired) recreate a result.
+  We support reproducibility in several ways.  For example, we use
+  [GitHub](http://www.github.com) repositories for managing shared code bases.
+  Whenever possible, we publish datasets through platforms like
+  [Myria](http://myria-web.appspot.com/editor) to allow other researchers to
+  access data remotely.  We provide tools and training around these tools to
+  help foster these practices throughout the community.
 
+**Collaboration** is a major component of scientific research, and we strive to
+  facillitate these interactions.  We place an emphasis on making all of our
+  work available on the Web.
+
+We strive to structure our work according to **[agile
+methodologies](http://agilemanifesto.org)**.  We favor short-term projects that
+produce immediate results.  For this reason, we prefer time-bounded projects
+that last between several weeks and several months.
 
 Our team has a strong track record of building systems that get real use.  See
 [this page](http://escience.washington.edu/what-we-do/projects) for a
