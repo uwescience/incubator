@@ -7,20 +7,12 @@ title: escience incubator welcome
 
 <img src="demo.jpg" style="width:300px; height:auto; float:right; margin-left:15px">
 
-Increasingly, science is a data-driven endeavor.  Scientists have access to
-phenomenal amounts of data, but they often lack the requisite skills to make
-sense of data at scale.  Data scientists understand the \"lay of the land\" of
-big data analytics, including techniques for querying, visualizing, storing,
-sharing, and data mining.  However, data scientists lack insight into 
-scientific problem domains.
-
-The goal of the Data Science Incubator is to bring together data scientists with 
-domain scientists to advance the state of the art in science.  We leverage state
+Increasingly, science is a data-driven endeavor.  The goal of the Data Science
+Incubator is to bring together data scientists with domain scientists to
+advance the state of the art in science.  We leverage state 
 of the art tools like [Hadoop](http://hadoop.apache.org),
 [GraphLab](http://graphlab.org), and [Myria](http://myria-web.appspot.com) to
-help researchers make sense of data at scale.  Because science is a
-collaborative process, we place an emphasis on making all of our work available
-on the web.
+help researchers make sense of scientific data.
 
 The Data Science Incubator works on the principle of direct collaboration.
 During the lifetime of the project, researchers will directly engage with our
@@ -28,6 +20,39 @@ team of data scientists, either in our office (currently, Sieg 326) or at
 another location.  We have found this style of \"hands-on-keyboards\"
 collaboration to be invaluable, as it facillitates rapid knowledge transfer
 between domain scientists and data scientists.
+
+## Issues We Can Help With
+
+The members of the Data Science Incubator draw on a large body of expertise in
+databases, machine learning, visualization, and other fields.  We specialize in
+the following types of challanges:
+
+* **Managing data at scale**: Many data analysis techniques do not scale to large
+  datasets.  For example, simple Python and R scripts exhibit poor performance
+  when data set sizes exceed main memory.  We have deep experience working with
+  scalable data platforms such as Map/Reduce, parallel databases such as Myria,
+  and graph-processing platforms such as GraphLab.
+
+* **Automating data management tasks**: Scientists spend too much time
+  \"futzing\"  with data: converting between file formats, cleaning data,
+  down-sampling, etc.  Through systems like
+  [SqlShare](https://sqlshare.escience.washington.edu), we aim to  simplify
+  these data manipulation tasks so scientists can focus on the task of doing
+  science. 
+
+* **Visualization**: We have experience building data-driven visualizations to
+    help scientists make sense of data.  We focus on web-enabled visualizations
+    using platforms like [D3](http://d3js.org).
+
+
+## Principles
+
+Web-accessible resources (sqlshare, myria)
+
+Because science is a
+collaborative process, we place an emphasis on making all of our work available
+on the web.
+
 
 Our team has a strong track record of building systems that get real use.  See
 [this page](http://escience.washington.edu/what-we-do/projects) for a
