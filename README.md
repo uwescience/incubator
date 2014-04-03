@@ -1,1 +1,1 @@
-Documents related to the escience incubator.
+Documents related to the Data Science Incubator.
